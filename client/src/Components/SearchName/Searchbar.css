@@ -1,0 +1,6 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    height: inherit;
+    background-image: url("../../assets/dotted-world-map-vector-1.png");
+  }

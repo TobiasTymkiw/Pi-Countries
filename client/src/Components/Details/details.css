@@ -1,0 +1,7 @@
+.back {
+  background-color: rgb(106, 105, 104);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,12 @@
+.landing {
+  width: 100%;
+  height: 100vh;
+  background-image: url("../../assets/istockphoto-1189556235-612x612.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+
+  
+}
+h1{color:rgb(73, 73, 111)}

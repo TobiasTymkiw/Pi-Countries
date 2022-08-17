@@ -1,0 +1,30 @@
+.pageNumbers {
+  list-style: none;
+  display: flex;
+}
+
+.pageNumbers li {
+  padding: 10px;
+  border: 2px solid black;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.pageNumbers li.active {
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+}
+
+.pageNumbers li button {
+  background-color: transparent;
+  border: none;
+  color: black;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+.pageNumbers li button:hover {
+  background-color: black;
+  color: white;
+}
